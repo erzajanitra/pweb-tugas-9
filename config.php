@@ -1,9 +1,9 @@
 <?php
 
-$server = "localhost:3307";
-$user = "root";
-$password = "";
-$nama_database = "pendaftaran_siswa";
+$server = "localhost";
+$user = "id18037938_root";
+$password = "[Em!&(d35tl=cgUI";
+$nama_database = "id18037938_pendaftaran_siswa";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
 
